@@ -14,7 +14,6 @@ Allow: /
 User-agent: aolbuild
 Allow: /
 User-agent: teoma
-
 Allow: /
 
 Sitemap: https://brilian-ideas.github.io/sketch-drawing/sitemapx.xml
